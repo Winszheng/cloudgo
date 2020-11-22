@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c95d02f-7bb1-4951-bf96-055bddeb176a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/opt/go" />
+  <component name="ProjectId" id="1kbShgOlLJ1REjix2ottW3sYuDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/template" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="cloudgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="906" height="195" key="GridCell.Tab.0.bottom" timestamp="1606046507806">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="906" height="195" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1606046507806" />
+    <state width="906" height="195" key="GridCell.Tab.0.center" timestamp="1606046507803">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="906" height="195" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1606046507803" />
+    <state width="906" height="195" key="GridCell.Tab.0.left" timestamp="1606046507802">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="906" height="195" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1606046507802" />
+    <state width="906" height="195" key="GridCell.Tab.0.right" timestamp="1606046507804">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="906" height="195" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1606046507804" />
+    <state x="101" y="248" key="SettingsEditor" timestamp="1605970266337">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="101" y="248" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1605970266336" />
+    <state x="1082" y="229" width="696" height="644" key="find.popup" timestamp="1605986077258">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1082" y="229" width="696" height="644" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1605986077258" />
+    <state x="1093" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1605972288110">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1093" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1605972288110" />
+    <state x="1165" y="463" width="540" height="177" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606043048296">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1165" y="463" width="540" height="177" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1606043048296" />
+  </component>
+</project>
