@@ -25,29 +25,29 @@
 
 ### 1 curl测试
 
-![image-20201122024339634](/home/wucp/git/cloudgo/img/image-20201122024339634.png)
+![image-20201122024339634](img/image-20201122024339634.png)
 
 可见能够提供静态文件服务。然而，我们不希望服务器上的所有资源都能够被访问，有些文件是我们不希望暴露给用户的：
 
 创建文件sudo.txt，修改权限：
 
-![image-20201122190223686](/home/wucp/git/cloudgo/img/image-20201122190223686.png)
+![image-20201122190223686](img/image-20201122190223686.png)
 
 结果可见无法访问：
 
-![image-20201122190327239](/home/wucp/.config/Typora/typora-user-images/image-20201122190327239.png)
+![image-20201122190327239](img/image-20201122190327239.png)
 
 ### 2 简单js访问
 
-![image-20201122184529801](/home/wucp/.config/Typora/typora-user-images/image-20201122184529801.png)
+![image-20201122184529801](img/image-20201122184529801.png)
 
 ### 3 使用模板，提交表单输出表格
 
-![image-20201122200222673](/home/wucp/git/cloudgo/img/image-20201122200222673.png)
+![image-20201122200222673](img/image-20201122200222673.png)
 
 提交之后：
 
-![image-20201122200246914](/home/wucp/.config/Typora/typora-user-images/image-20201122200246914.png)
+![image-20201122200246914](img/image-20201122200246914.png)
 
 ### 4 ab测试
 
@@ -59,7 +59,7 @@ sudo apt install apache2-utils
 
 发出请求，其中-n表示执行的请求数量，-c表示并发请求个数，可见1000个请求全部完成：
 
-![image-20201122192043016](/home/wucp/.config/Typora/typora-user-images/image-20201122192043016.png)
+![image-20201122192043016](img/image-20201122192043016.png)
 
 解释出现的参数：
 
@@ -81,9 +81,9 @@ sudo apt install apache2-utils
 -   Connection Times: 表内描述了所有的过程中所消耗的最小、平均、中位、最长时间
 -   Percentage of the requests served within a certain time: 每个百分段的请求完成所需的时间
 
-![image-20201122192104826](/home/wucp/.config/Typora/typora-user-images/image-20201122192104826.png)
+![image-20201122192104826](img/image-20201122192104826.png)
 
-![image-20201122192121584](/home/wucp/.config/Typora/typora-user-images/image-20201122192121584.png)
+![image-20201122192121584](img/image-20201122192121584.png)
 
 
 
