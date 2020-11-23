@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c95d02f-7bb1-4951-bf96-055bddeb176a" name="Default Changelist" comment="" />
+    <list default="true" id="1c95d02f-7bb1-4951-bf96-055bddeb176a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handler/handle.go" beforeDir="false" afterPath="$PROJECT_DIR$/handler/handle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,14 +18,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
   <component name="GOROOT" path="/opt/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kbShgOlLJ1REjix2ottW3sYuDk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,11 +39,12 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -41,7 +54,40 @@
       <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build log.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="cloudgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/log/log.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build logger.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="cloudgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/logger/logger.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build logger.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="cloudgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/loggeer/logger.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="cloudgo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test/main.go" />
+      <package value="github.com/Winszheng/cloudgo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="cloudgo" />
       <working_directory value="$PROJECT_DIR$" />
@@ -53,45 +99,75 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build logger.go (1)" />
+        <item itemvalue="Go Build.go build logger.go" />
+        <item itemvalue="Go Build.go build log.go" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>https://goproxy.io</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state width="906" height="195" key="GridCell.Tab.0.bottom" timestamp="1606046507806">
+    <state x="1034" y="243" width="725" height="476" key="EditFileWatcherDialog" timestamp="1606057674444">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="906" height="195" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1606046507806" />
-    <state width="906" height="195" key="GridCell.Tab.0.center" timestamp="1606046507803">
+    <state x="1034" y="243" width="725" height="476" key="EditFileWatcherDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1606057674444" />
+    <state width="906" height="265" key="GridCell.Tab.0.bottom" timestamp="1606104743879">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="906" height="195" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1606046507803" />
-    <state width="906" height="195" key="GridCell.Tab.0.left" timestamp="1606046507802">
+    <state width="906" height="265" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1606104743879" />
+    <state width="906" height="265" key="GridCell.Tab.0.center" timestamp="1606104743877">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="906" height="195" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1606046507802" />
-    <state width="906" height="195" key="GridCell.Tab.0.right" timestamp="1606046507804">
+    <state width="906" height="265" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1606104743877" />
+    <state width="906" height="265" key="GridCell.Tab.0.left" timestamp="1606104743876">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="906" height="195" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1606046507804" />
-    <state x="101" y="248" key="SettingsEditor" timestamp="1605970266337">
+    <state width="906" height="265" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1606104743876" />
+    <state width="906" height="265" key="GridCell.Tab.0.right" timestamp="1606104743878">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="101" y="248" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1605970266336" />
+    <state width="906" height="265" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1606104743878" />
+    <state width="906" height="338" key="GridCell.Tab.1.bottom" timestamp="1606103549380">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="906" height="338" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1606103549380" />
+    <state width="906" height="338" key="GridCell.Tab.1.center" timestamp="1606103549379">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="906" height="338" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1606103549379" />
+    <state width="906" height="338" key="GridCell.Tab.1.left" timestamp="1606103549379">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="906" height="338" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1606103549379" />
+    <state width="906" height="338" key="GridCell.Tab.1.right" timestamp="1606103549380">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="906" height="338" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1606103549380" />
+    <state x="883" y="118" key="SettingsEditor" timestamp="1606057678783">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="883" y="118" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1606057678783" />
     <state x="1082" y="229" width="696" height="644" key="find.popup" timestamp="1605986077258">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1082" y="229" width="696" height="644" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1605986077258" />
-    <state x="1093" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1605972288110">
+    <state x="1093" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1606052422772">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="1093" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1605972288110" />
+    <state x="1093" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1606052422772" />
     <state x="1165" y="463" width="540" height="177" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606043048296">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

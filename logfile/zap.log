@@ -1,0 +1,8 @@
+2020-11-23T11:58:08.165+0800	DEBUG	handler/handle.go:27	path:/assets/
+2020-11-23T11:59:26.748+0800	DEBUG	handler/handle.go:27	path:/assets/
+2020-11-23T12:02:05.507+0800	DEBUG	handler/handle.go:27	path:/assets/index.html
+2020-11-23T12:02:05.573+0800	DEBUG	handler/handle.go:27	path:/assets/main.css
+2020-11-23T12:02:05.573+0800	ERROR	cloudgo/main.go:34	error handling request:open assets/main.css: no such file or directory
+
+2020-11-23T12:02:05.577+0800	DEBUG	handler/handle.go:27	path:/assets/hello.js
+2020-11-23T12:02:05.605+0800	DEBUG	handler/handle.go:27	path:/assets/cng.jpg
