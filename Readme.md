@@ -25,7 +25,7 @@
 
 ### 项目结构
 
-![image-20201123092339597](/home/wucp/.config/Typora/typora-user-images/image-20201123092339597.png)
+![image-20201123092339597](/home/wucp/git/cloudgo/img/image-20201123092339597.png)
 
 ## 二、测试
 
